@@ -1,11 +1,9 @@
-# Hasil Tugas Task 6
-## Portofolio
+# Hasil Tugas Task 7
+## TEST-CI/CD-PORTOFOLIO-PROFILE
 
 ##### Nama : Nadia Putri Rahmawati 
 ##### Universitas : Universitas Muhammadiyah Sukabumi
 
-### Hasil Portofolio :
+### Test Berhasil :
 
-![](https://i.imgur.com/5Hr5z5x.png)
-![](https://i.imgur.com/0qZtqBC.png)
-![](https://i.imgur.com/jpcsDSK.png)
+![CI/CD Pipeline](https://github.com/nadiaputrirahmawati/Portofolio-uni-testing-task-7/actions/workflows/action.yml/badge.svg)
